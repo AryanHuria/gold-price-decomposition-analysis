@@ -1,6 +1,6 @@
 # Gold Price (INR) Decomposition Dashboard
 
-
+## Live dashboard: https://aryan-gold-price-decomposition-analysis.streamlit.app/
 
 ## What this project answers
 
