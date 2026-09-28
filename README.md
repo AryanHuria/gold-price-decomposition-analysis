@@ -1,8 +1,6 @@
 # Gold Price (INR) Decomposition Dashboard
 
-**Live dashboard:** https://goldinranalytics-w5jdwgnvexyqbn4uaw2wcg.streamlit.app/ 
 
-**Repo:** https://github.com/SarThak191119/Gold_INR_Analytics
 
 ## What this project answers
 
